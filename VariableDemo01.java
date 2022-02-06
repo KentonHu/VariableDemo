@@ -5,7 +5,7 @@
 		byte,short,int,1ong,float, double,char,boolean
 	变量的使用:
 		取值格式:变量名
-		修改值格式:变量名–变量值;
+		修改值格式:变量名=变量值;
 
 */
 public class VariableDemo01 {
